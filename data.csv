@@ -1,0 +1,28 @@
+user,metadata,encrypted,encrypted_aes_key,iv
+25,"{
+  ""caller_name"": ""John Doe"",
+  ""caller_number"": ""+1234567890"",
+  ""called_name"": ""Jane Smith"",
+  ""called_number"": ""+0987654321"",
+  ""call_duration"": ""00:10:15"",
+  ""call_start_time"": ""2024-09-09T10:00:00Z"",
+  ""call_end_time"": ""2024-09-09T10:10:15Z""
+}",True,YZAzX1tggV4Mqf7Ob5wqxxOVt8wpk8FmGW8BKayNF0OQgMHct6TLL/QmggiWqiMrf1nvGPgEl3vA4kdX+rRTgyJMzzt7dtCt1D+eWDuPvxiHogs48ZXa1V8KTold7EhPynI/xnopCAe1UuUideOgsDjYklMvPJSdALjLSpY5a3JewcOwcRo7nDSON2P/Mds7JZYgMiyknUj+HyegTw8JChVe1LGOltlDV66Yl3geFgJkA/NHEjbyF7mjLIqjKbU+vzZse8tmT4cnGLuaXMHPRtMOdKe+r/JxvmCTBcyMrZmFru+0oy0oOc543F1GjUlqbqALN1Qc16Rz0F8vdtMEsQ==,b'3\x07\x84\xda\xb8\x82\xfe\x86\x15\xee!\xd2\xc85\rL'
+26,"{
+  ""caller_name"": ""John Doe"",
+  ""caller_number"": ""+1234567890"",
+  ""called_name"": ""Jane Smith"",
+  ""called_number"": ""+0987654321"",
+  ""call_duration"": ""00:10:15"",
+  ""call_start_time"": ""2024-09-09T10:00:00Z"",
+  ""call_end_time"": ""2024-09-09T10:10:15Z""
+}",True,Fobiw6k9eOr1S3QDcfdlmpOPHaZ6mElvoMRxlssN+XhPaXUzzuydUOd0adC4OV6TVFkUbkhJjIZHD12W4MM0gsECX3NvUr1/ZzKKQrbhJ9KulwANdPaGhFJmjSuo1pODgPYXEU0f5kVmfm66EaEzasc5CKIhJ8Gs/QOC7L608fJBpoxjPrQCwnEBHQc3WKsZrB71h66fYODaMMz+Iug8LoFWYNgAKJQcljF4Xb7OTBmtbGx3KXUZjnf+diRru3iOMr/L3AhuMmKVmvulW0YTbEXoTPu7vb9oYVOS+fQqKHWOmAUiauaZPP3kv3DjTGckNr8GN/r3onvj3XUkpQihcA==,b'\xeb\xca\xc18W\xf9$+8}G+\x05\\\t\x1b'
+27,"{
+  ""caller_name"": ""John Doe"",
+  ""caller_number"": ""+1234567890"",
+  ""called_name"": ""Jane Smith"",
+  ""called_number"": ""+0987654321"",
+  ""call_duration"": ""00:10:15"",
+  ""call_start_time"": ""2024-09-09T10:00:00Z"",
+  ""call_end_time"": ""2024-09-09T10:10:15Z""
+}",True,N05u/n+pSHIxIS6iZoh+8TUxTtr0vEgUEz6mTw1VuDkm9irbkemAuBy3uaRHuCf1mvETQ0yHfb8yM0rGNn86mFb6rC8HzEC1oUHhCY+7qRzMRNh5I6sBjWtn1HVRKsY6UA8wqoFsnj5q6IbMS0FJRp5ZpkJpWeP5/boJfLtvKY0nP+UGI8q2Y3zZ2phcth6oP/YKHtmk4Xo1F4qoEt4hw++tnzl08qOCu79gjpR6xBQ1T2OalczoYZr8Pbd693GucLYkaImBaHwlowL/dn3tcrvyZNt7YYo4fF3EHYO9P2cnsPgt5HKhS5sMzhj7F8DMhdz60OS58ysFJoU9WEKYpw==,b'\x82\xbfW\x8f\x9dy\xa1\xf1\xe9\xdd\xf4\xef\xc6\x1d\xc1\xe3'
